@@ -1,6 +1,6 @@
 {
   "name": "@weride/hello-private",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A scenario filter form",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
     "url": "https://github.com/yuzhangcmu/hello-private/issues"
   },
   "homepage": "https://github.com/yuzhangcmu/hello-private#readme",
-  "private": "true"
+  "private": true
 }
