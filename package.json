@@ -1,6 +1,6 @@
 {
   "name": "@weride/hello-private",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A scenario filter form",
   "main": "index.js",
   "scripts": {
