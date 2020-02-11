@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/yuzhangcmu/hello-private/issues"
   },
-  "homepage": "https://github.com/yuzhangcmu/hello-private#readme"
+  "homepage": "https://github.com/yuzhangcmu/hello-private#readme",
+  "private": "true"
 }
